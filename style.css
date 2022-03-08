@@ -9,4 +9,11 @@ h1{
 
 .recipes{
     display: flex;
+    justify-content: center;
+}
+
+.single-recipe{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
