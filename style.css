@@ -1,7 +1,7 @@
 *{
     background-color: bisque;
     /* border: 2px solid red; */
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 
 h1{
@@ -12,7 +12,7 @@ h1{
 .recipes{
     display: flex;
     /* margin: 0 auto; */
-    /* justify-content: center; */
+    justify-content: space-between;
 }
 
 .single-recipe{
@@ -30,5 +30,5 @@ h1{
 img{
     width: 200px;
     height: 300px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
